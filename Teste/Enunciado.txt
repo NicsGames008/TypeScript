@@ -1,0 +1,13 @@
+Create an app that will register tasks in a list
+
+    1. Setup environment where you can build the app in typescript and see the results in a local address.
+    2. Write html and css for a basic interface (list to display tasks, button to add new tasks).
+        - https://javascript.plainenglish.io/how-to-structure-your-typescript-node-js-application-db05bfbdf0b4
+    3. Define and create a structure for tasks in Typescript (Tasks must contain a title, id, date added and order; An array could store the tasks).
+    4. Extend the html task element and TS to have a a remove button and implement the logic to remove it when pressed.
+    5. Edit the TS code to store the tasks in the localstorage api.
+    6. Implement a way to edit the tasks name;
+    7. Implement a way to edit the order of the task; 
+    8. Style it using classes and define the classes in a separate file(s).
+    9. Implement a search bar that will search tasks and filter in a new section that you can call header.
+    10. Implement a navigation header with a link for the tasklist and another to a status page where you display the amount of task that are stored in the app.
